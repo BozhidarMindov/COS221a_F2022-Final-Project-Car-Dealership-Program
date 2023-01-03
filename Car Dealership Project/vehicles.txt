@@ -1,0 +1,10 @@
+Car,Civic,Honda,Red,2022,110,500.6,10.5,1.5,petrol,true
+SUV,Kodiaq,Skoda,Brown,2020,150,50000,100,2,diesel,false,7
+Van,Transit,Ford,white,2021,150,50000,100,2,diesel,false,MPV,7
+Truck,Anthem,Mack,grey,2021,505,90000.0,90000,10,diesel,11.0,true,5000.0
+PickupTruck,Raptor,Ford,Blue,2022,280,50000,10000,2.8,diesel,3.8,true,4000.00,5,personalUse
+Motorcycle,Scrambler,Ducati,grey,2021,300,40000,20000,11.0,diesel,false
+ElectricScooter,1,Segway,green,2019,30,1800,100,100,electric,false,100
+Car,Aventador,Lamborghini,Green,2019,650,500000,5,5.8,petrol,false
+SUV,GLE,Mercedes,Black,2018,420,100000,8000,3.2,diesel,false,7
+Car,Model S,Tesla,White,2022,550,80000,50,500,electric,false

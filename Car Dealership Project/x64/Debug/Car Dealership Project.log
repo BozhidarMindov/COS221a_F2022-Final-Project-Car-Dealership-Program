@@ -1,0 +1,5 @@
+﻿  Source.cpp
+G:\AUBG Downloads\2nd Year\Fundamental Data Structures\Car Dealership Project\Car Dealership Project\Source.cpp(22,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\AUBG Downloads\2nd Year\Fundamental Data Structures\Car Dealership Project\Car Dealership Project\Source.cpp(23,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\AUBG Downloads\2nd Year\Fundamental Data Structures\Car Dealership Project\Car Dealership Project\Source.cpp(127,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Car Dealership Project.vcxproj -> G:\AUBG Downloads\2nd Year\Fundamental Data Structures\Car Dealership Project\x64\Debug\Car Dealership Project.exe
